@@ -2,7 +2,7 @@
 
 Date: September 6, 2014  
 Website: [gobeyondracing.com](https://gobeyondracing.com/races/volcanic-50/)  
-Unofficial resuts: 11:38
+Official time: 11:38:49
 
 Ahh... Volcanic 50, the circumnavigation of Mount St. Helens. Is it a 50K or a 50 mile? It's officially a 50K (well, a tad longer) but it beats you up like a 50 mile. I went in with a B-goal of beating my course PR of 10:41 from 2013 and an A-goal of beating 10:00. I wouldn't make either.
 
