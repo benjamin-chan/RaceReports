@@ -78,6 +78,7 @@ Two days after, I'm leaning towards not doing Volcanic again next year.
 But that's pretty much how I felt the two other times and I still signed up to do it again.
 It's a great race and definitely should be on everyone's bucket list.
 I'm just thinking 3 buckets worth might just be enough.
+Give me a few days and I'll probably want another bucket.
 
 **Equipment**
 
