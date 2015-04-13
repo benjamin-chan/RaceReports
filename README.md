@@ -7,4 +7,4 @@ Race Reports
   * [Volcanic 50](https://github.com/benjamin-chan/RaceReports/blob/master/Volcanic50-2014.md)
   * [JFK 50](https://github.com/benjamin-chan/RaceReports/blob/master/JFK50-2014.md)
 * 2015
-  * [Peterson Ridge Rumble 40 Mile](https://github.com/benjamin-chan/RaceReports/blob/master/PetersonRidgeRumble2015.md)
+  * [Peterson Ridge Rumble 40 Mile](https://github.com/benjamin-chan/RaceReports/blob/master/PetersonRidgeRumble-2015.md)
