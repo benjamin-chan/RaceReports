@@ -9,4 +9,5 @@ Race Reports
 * 2015
   * [Peterson Ridge Rumble 40 Mile](PetersonRidgeRumble-2015.md)
 * 2016
+  * [The Rut 28K](TheRut28K-2016.md)
   * [Cuyamaca 100K](Cuyamaca100K-2016.md)
