@@ -8,3 +8,5 @@ Race Reports
   * [JFK 50](https://github.com/benjamin-chan/RaceReports/blob/master/JFK50-2014.md)
 * 2015
   * [Peterson Ridge Rumble 40 Mile](https://github.com/benjamin-chan/RaceReports/blob/master/PetersonRidgeRumble-2015.md)
+* 2016
+  * [Cuyamaca 100K](Cuyamaca100K-2016.md)
