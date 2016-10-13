@@ -8,7 +8,7 @@ Strava link: [strava.com](https://www.strava.com/activities/732231948)
 Cuyamaca 100K was a late addition to my 2016 race calendar. For some reason, I
 really wanted a Western States lottery ticket and Cuyamaca mostly fit my
 schedule and was logistically simple. I say "mostly" because it was 4 weeks
-after my "A" race, The Rut 28K. So Cuyamaca replaced The Rut as my "A" race
+after my "A" race, [The Rut 28K](TheRut28K-2016.md). So Cuyamaca replaced The Rut as my "A" race
 for the year and The Rut became my "B" race. Training for both was going to be
 challenging since both are very different races. I learned that I prefer
 training for a race like The Rut more than Cuyamaca. Like that T-shirt I saw
